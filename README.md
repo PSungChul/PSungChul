@@ -14,3 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+
+![SungChul's GitHub stats](https://github-readme-stats.vercel.app/api?username=PSungChul&show_icons=true&theme=synthwave)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=PSungChul&layout=compact&theme=calm)
